@@ -1,4 +1,4 @@
-# HESS Knapsack O(n^2)
+# HESS Knapsack O(n^2.x) + O(Oracle)
 ### Pseudo (exact in many cases) Optimal Solver
 
 Copyright (c) 2012-2022 Oscar Riveros (https://twitter.com/maxtuno, Chile)
